@@ -1,4 +1,4 @@
-# Hand_tracker.py
+# Hand_tracker
 
 This is a Python-based hand tracking project using OpenCV and MediaPipe. The program captures video input from your camera and tracks hand landmarks in real-time.
 
